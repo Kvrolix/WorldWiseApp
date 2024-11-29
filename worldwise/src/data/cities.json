@@ -1,0 +1,70 @@
+{
+  "cities": [
+    {
+      "id": "e60b",
+      "cityName": "Yerri",
+      "country": "Spain",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/es.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2024-10-15T09:11:39.099Z",
+      "notes": "",
+      "position": {
+        "lat": "42.69858589169842",
+        "lng": "-2.0214843750000004"
+      }
+    },
+    {
+      "id": "31df",
+      "cityName": "Lizzano in Belvedere",
+      "country": "Italy",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/it.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2024-11-29T12:46:00.589Z",
+      "notes": "Great place",
+      "position": {
+        "lat": "44.17010888795379",
+        "lng": "10.917249866240116"
+      }
+    },
+    {
+      "id": "ce4a",
+      "cityName": "Vallieres",
+      "country": "France",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/fr.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2024-11-29T12:46:36.567Z",
+      "notes": "",
+      "position": {
+        "lat": "48.006393533774784",
+        "lng": "4.039348209795199"
+      }
+    }
+  ]
+}

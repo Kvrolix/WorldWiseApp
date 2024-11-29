@@ -1,0 +1,150 @@
+{
+	"cities": [
+		// {
+		//   "cityName": "Lisbon",
+		//   "country": "Portugal",
+		//   "emoji": "🇵🇹",
+		//   "date": "2027-10-31T15:59:59.138Z",
+		//   "notes": "My favorite city so far!",
+		//   "position": {
+		//     "lat": 38.727881642324164,
+		//     "lng": -9.140900099907554
+		//   },
+		//   "id": "73930385123"
+		// },
+		// {
+		//   "cityName": "Madrid",
+		//   "country": "Spain",
+		//   "emoji": "🇪🇸",
+		//   "date": "2027-07-15T08:22:53.976Z",
+		//   "notes": "",
+		//   "position": {
+		//     "lat": 40.46635901755316,
+		//     "lng": -3.7133789062500004
+		//   },
+		//   "id": "1780675152346"
+		// },
+		// {
+		//   "cityName": "Berlin",
+		//   "country": "Germany",
+		//   "emoji": "🇩🇪",
+		//   "date": "2027-02-12T09:24:11.863Z",
+		//   "notes": "Amazing 😃",
+		//   "position": {
+		//     "lat": 52.53586782505711,
+		//     "lng": 13.376933665713324
+		//   },
+		//   "id": "98443197"
+		// },
+		{
+			"id": "8d66",
+			"cityName": "Lenax",
+			"country": "France",
+			"emoji": {
+				"type": "img",
+				"key": null,
+				"ref": null,
+				"props": {
+					"src": "https://flagcdn.com/24x18/fr.png",
+					"alt": "flag"
+				},
+				"_owner": null,
+				"_store": {}
+			},
+			"date": "2024-10-15T09:08:27.511Z",
+			"notes": "",
+			"position": {
+				"lat": "46.31658418182218",
+				"lng": "3.8232421875000004"
+			}
+		},
+		{
+			"id": "e60b",
+			"cityName": "Yerri",
+			"country": "Spain",
+			"emoji": {
+				"type": "img",
+				"key": null,
+				"ref": null,
+				"props": {
+					"src": "https://flagcdn.com/24x18/es.png",
+					"alt": "flag"
+				},
+				"_owner": null,
+				"_store": {}
+			},
+			"date": "2024-10-15T09:11:39.099Z",
+			"notes": "",
+			"position": {
+				"lat": "42.69858589169842",
+				"lng": "-2.0214843750000004"
+			}
+		},
+		{
+			"id": "1e80",
+			"cityName": "Lirac",
+			"country": "France",
+			"emoji": {
+				"type": "img",
+				"key": null,
+				"ref": null,
+				"props": {
+					"src": "https://flagcdn.com/24x18/fr.png",
+					"alt": "flag"
+				},
+				"_owner": null,
+				"_store": {}
+			},
+			"date": "2024-10-15T09:14:50.685Z",
+			"notes": "",
+			"position": {
+				"lat": "44.040218713142146",
+				"lng": "4.702148437500001"
+			}
+		},
+		{
+			"id": "1cfd",
+			"cityName": "Sigoyer",
+			"country": "France",
+			"emoji": {
+				"type": "img",
+				"key": null,
+				"ref": null,
+				"props": {
+					"src": "https://flagcdn.com/24x18/fr.png",
+					"alt": "flag"
+				},
+				"_owner": null,
+				"_store": {}
+			},
+			"date": "2024-10-15T09:16:59.996Z",
+			"notes": "",
+			"position": {
+				"lat": "44.32384807250689",
+				"lng": "5.954589843750001"
+			}
+		},
+		{
+			"id": "d4c4",
+			"cityName": "Reutigen",
+			"country": "Switzerland",
+			"emoji": {
+				"type": "img",
+				"key": null,
+				"ref": null,
+				"props": {
+					"src": "https://flagcdn.com/24x18/ch.png",
+					"alt": "flag"
+				},
+				"_owner": null,
+				"_store": {}
+			},
+			"date": "2024-10-15T09:25:12.071Z",
+			"notes": "",
+			"position": {
+				"lat": "46.70973594407157",
+				"lng": "7.602539062500001"
+			}
+		}
+	]
+}
