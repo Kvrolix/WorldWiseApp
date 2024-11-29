@@ -2,6 +2,7 @@
 
 The **WorldWise App** is a dynamic travel tracker that allows users to log their travel experiences, visualize visited locations on a map, and organize trip details. It combines the power of modern web technologies with an interactive, map-driven interface to enhance user engagement.  
 
+![appShowcase](WorldWiseGif.gif)
 ---  
 
 ## 🚀 Features  
@@ -111,13 +112,20 @@ This project helped me gain expertise in the following areas:
 
 ## 📷 Screenshots  
 
-(Add screenshots or a demo GIF showcasing the app's features.)  
+![start](assets/image1.png)
+![login](assets/image2.png)
+![app](assets/Image3.png)
+![app1](assets/image4.png)
+![app2](assets/image5.png)
+![app3](assets/image6.png)
+![app4](assets/image7.png)
+
 
 ---  
 
 ## 🤝 Contributions  
 
-Feel free to fork the repository, submit issues, or create pull requests. Contributions are welcome!  
+The projects have been completed during the Jonas Schmedtmann course.
 
 ---  
 
