@@ -2,7 +2,8 @@
 
 The **WorldWise App** is a dynamic travel tracker that allows users to log their travel experiences, visualize visited locations on a map, and organize trip details. It combines the power of modern web technologies with an interactive, map-driven interface to enhance user engagement.  
 
-![appShowcase](WorldWiseGif.gif)
+![appShowcase](WorldWiseGif.GIF)
+
 
 ---  
 
